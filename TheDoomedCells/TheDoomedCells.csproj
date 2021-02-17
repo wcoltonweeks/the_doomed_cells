@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CharacterLibrary\DungeonLibrary.csproj">
+      <Project>{b8969e50-f602-4d12-a4f4-a199620a82cc}</Project>
+      <Name>DungeonLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

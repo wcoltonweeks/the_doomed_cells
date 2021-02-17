@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace RoomLibrary
 {
-    public class Class1
+    public class Room
     {
+        public string Name { get; set; }
+        public string Desctiption { get; set; }
+        public Monster { get; set; }
+
     }
 }

@@ -5,9 +5,7 @@ VisualStudioVersion = 15.0.28307.1340
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheDoomedCells", "TheDoomedCells.csproj", "{906C794D-8209-41B9-9EF3-82C8308AED77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterLibrary", "..\CharacterLibrary\CharacterLibrary.csproj", "{B8969E50-F602-4D12-A4F4-A199620A82CC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomLibrary", "RoomLibrary\RoomLibrary.csproj", "{331E247D-5D56-4263-A3C7-269977F809BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonLibrary", "..\CharacterLibrary\DungeonLibrary.csproj", "{B8969E50-F602-4D12-A4F4-A199620A82CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +21,6 @@ Global
 		{B8969E50-F602-4D12-A4F4-A199620A82CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8969E50-F602-4D12-A4F4-A199620A82CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8969E50-F602-4D12-A4F4-A199620A82CC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{331E247D-5D56-4263-A3C7-269977F809BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{331E247D-5D56-4263-A3C7-269977F809BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{331E247D-5D56-4263-A3C7-269977F809BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{331E247D-5D56-4263-A3C7-269977F809BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
